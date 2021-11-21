@@ -1,4 +1,4 @@
-# Financial-Systems-Design
+# Brokerage System - Financial Systems Design
 This is a brokerage system for a single stock that tracks the Volume Weighted Average Prices (VWAPs) for long and short calls
 This brokerage system works in a pair using ZMQ pairs:
 
